@@ -82,10 +82,7 @@ void _print(T t, V... v) {__print(t); if (sizeof...(v)) cerr << ", "; _print(v..
 int main()
 {
     FIO;
-    #ifndef ONLINE_JUDGE
-    //freopen("input.txt","r",stdin);
-    //freopen("output.txt","w",stdout);
-    #endif
+    
 
     
     
