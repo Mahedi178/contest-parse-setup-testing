@@ -1,1 +1,3 @@
-Run: bash s.sh #number_of_testcase
+```bash
+bash s.sh #total_testcases
+```
