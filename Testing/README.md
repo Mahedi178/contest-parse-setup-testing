@@ -1,1 +1,1 @@
-just type: bash s.sh #testcases
+Run: bash s.sh #number_of_testcase
